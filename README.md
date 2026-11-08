@@ -1,53 +1,39 @@
 # Hi, I'm Otávio Leite
 
-Electrical Engineering and Computer Science student with a technical background in **Electrotechnics**. I enjoy understanding how things work — from electrical systems and hardware to software, operating systems, and connected devices.
+I have a technical background in **Electrotechnics** and am currently studying **Electrical Engineering** at Instituto Federal Fluminense (IFF) and **Computer Science** at Estácio.
 
-My academic background is in **Electrical Engineering**, while programming, embedded systems, and IoT are areas I explore through personal projects and continuous learning. I am especially interested in the intersection between hardware and software: microcontrollers, device interfaces, automation, sensors, and network-connected systems.
+My main academic path is in electrical engineering. Outside my coursework, I enjoy exploring programming, hardware, Linux, and the connection between software and physical devices. Embedded systems and IoT are personal interests that I explore through hobby projects.
 
-## About me
+## Current interests
+
+- Electrical engineering and electrotechnics
+- Programming with C and C++
+- Embedded systems and IoT as areas of personal study
+- Microcontrollers and hardware experimentation
+- Linux and open-source software
+
+## Hardware I work with or experiment on
+
+- M5Stack Cardputer ADV
+- ESP32 and ESP8266
+- Arduino
+- Raspberry Pi
+
+## Active projects
+
+- **[Netrunner](https://github.com/otavio-dias-leite/netrunner)** — a hobby project focused on firmware presentation and USB installation for the M5Stack Cardputer ADV.
+- **[Blog](https://github.com/otavio-dias-leite/blog)** — personal blog built with Hugo.
+- **[Portfolio](https://github.com/otavio-dias-leite/portfolio)** — personal portfolio built with Hugo.
+
+## Background
 
 - Technical degree in **Electrotechnics** — Instituto Federal Fluminense (IFF).
-- Undergraduate student in **Electrical Engineering** — IFF.
-- Undergraduate student in **Computer Science** — Estácio.
-- Interested in embedded systems, IoT, electronics, programming, automation, and computer hardware.
-- Experience with academic research and technological support activities at IFF.
-- I enjoy experimenting with Linux, microcontrollers, single-board computers, and custom software.
-
-## Technologies & hardware I explore
-
-- **Embedded and hardware:** Arduino, ESP8266, ESP32, Raspberry Pi, and M5Stack Cardputer.
-- **Programming:** C and C++.
-- **Operating systems:** Linux, including Arch Linux.
-- **Interests:** microcontrollers, sensors, automation, device interfaces, IoT, and the relationship between hardware and software.
-
-These are technologies I study and experiment with; this list is not intended to represent professional mastery of every item.
-
-## Selected projects
-
-Most of my projects are independent experiments, prototypes, or academic work.
-
-- **Cardputer experiments** — firmware concepts, interfaces, and experiments with the M5Stack Cardputer ADV.
-- **DOOM / CHRYSE** — a personal game and hardware experiment for the M5Stack Cardputer ADV.
-- **Netrunner** — a personal project exploring software, hardware, systems, and networking.
-- **Electrical and technical projects** — PLC, Tesla coil, temperature monitoring, fire monitoring for a bakery, and a virtual networks and telecommunications laboratory.
-
-The listed academic projects were developed in the context of **Feira Saber Fazer Saber**.
-
-## Academic and practical experience
-
-- **IFF Memória** — research scholarship activities (2025).
-- **DAAT / Virtual Telecommunications Laboratory** — technological support activities (2026).
+- Undergraduate studies in **Electrical Engineering** — IFF.
+- Undergraduate studies in **Computer Science** — Estácio.
+- Research scholarship activities at IFF Memória (2025).
+- Technological support activities at DAAT / Virtual Telecommunications Laboratory (2026).
 - Practical experience with electrical installations through independent work.
 
-## Find me around GitHub
+## Project disclaimer
 
-- [Blog](https://otavio-dias-leite.github.io/blog/)
-- [Portfolio](https://otavio-dias-leite.github.io/portfolio/)
-- [Netrunner](https://github.com/otavio-dias-leite/netrunner)
-- [DOOM / CHRYSE](https://github.com/otavio-dias-leite/doom-chryse)
-
-## A note about my repositories
-
-Some repositories are **hobby projects and Vibe Coding experiments** developed with the assistance of AI tools, followed by my own technical adjustments, review, and experimentation. They are shared for learning, exploration, and fun — **not as professional products, commercial services, or a claim of production-ready engineering**.
-
-I use these projects to explore ideas, learn by building, and better understand the technologies I work with.
+My public repositories are personal experiments and hobby projects. Some are developed with AI assistance and receive my own technical adjustments. They are shared for learning and exploration, not presented as professional products, commercial services, or production-ready engineering work.
